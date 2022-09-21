@@ -2,7 +2,7 @@
 ## Fall 2022
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/100126-the-glass.jpeg" width="500">
+<img src="figs/p1.png" width="500">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
